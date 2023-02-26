@@ -3,7 +3,7 @@ import java.io.PrintWriter;
 import java.util.Random;
 
 /**
- * Pre-code for Oblig 2 (Matrix multiplication) IN3030 - Spring 2023
+ 
  *
  * @author Magnus Espeland <magnuesp@ifi.uio.no>
  * @date 2019.02.08
