@@ -8,10 +8,10 @@ import java.util.List;
 
 /*
 
-Dette var en oblig jeg har hatt fra universitet hvor jeg bruker parallell programmering som benytter 4 tråder
+ jeg bruker parallell programmering som benytter 4 tråder
 til å finne største "K" som er oppgitt av brukern som blir sortert synkende. Jeg skal sammenligne en algoritme
 som bruker parallitet med en algoritme som bruker sekvensiell kjøring, og finne ut hvilke "n" størrselse er verdt med å
-bruke parallitet fremfor sekvensiell kjøring slik at programmet skal kjøre raskere. Hvis speedup median er > 1 så betyr parallitet er mer effektivt i dette tilfellet.
+bruke parallitet fremfor sekvensiell kjøring slik at programmet skal kjøre raskere. Hvis ratio av (seq median/parallel median) er > 1 så betyr parallitet er mer effektivt i dette tilfellet.
 Jeg tester for n = 1000, 10000, 100000, 1000000 ,10000000, 100000000.
 
 
