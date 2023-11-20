@@ -1,2 +1,2 @@
 # projects
-Parallel programming projects
+Parallel programming projects from school
